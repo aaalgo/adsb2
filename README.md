@@ -3,6 +3,10 @@
 Wei Dong	wdong@wdong.org
 Yuanfang Guan	yuanfang.guan@gmail.com
 
+https://www.kaggle.com/c/second-annual-data-science-bowl/leaderboard
+
+![image](kaggle.png)
+
 ## Quick Start
 
 Download the binary release from
